@@ -4,17 +4,17 @@
             <style>
                 @keyframes gradientText {
                     0% {
-                        background-position: 0%;
+                        background-position: 0% 50%;
                     }
                     50% {
                         background-position: 100%;
                     }
                     100% {
-                        background-position: 0%;
+                        background-position: 0% 50%;
                     }
                 }
                 
-                h1 {
+                h1 { 
                     font-family: 'Inter',
 					-apple-system,
 					BlinkMacSystemFont, 
@@ -31,12 +31,12 @@
                     text-align: center;
                     font-weight: 900;
                     font-size: 4em;
-                    background: -webkit-linear-gradient(340deg, #ED3515, #6051E8);
-                    background: linear-gradient(110deg, #ED3515 0%, #6051E8);
-                    
+                    background: -webkit-linear-gradient(330deg, #ED3515, #1a6cfbff);
+                    background: linear-gradient(120deg, #ED3515 0%, #1a6cfbff);
+                    background-size: 200%;
                     background-clip: text;
                     -webkit-background-clip: text;
-                    -webkit-text-fill-collor: transparent;
+                    -webkit-text-fill-color: transparent;
                     -webkit-animation: gradientText 3s ease infinite;
                     animation: gradientText 3s ease infinite;
                 }
