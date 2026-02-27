@@ -8,7 +8,7 @@ My name is Ruben Luna a CS student at Texas State who treats code like art and s
 
 I like understanding how things work—then finding where they don't.
 
-I have experience in C++, Python, HTML, CSS, and am knowledgeable in computer networks. My current certificate roadmap is CompTIA A+ --> CCNA --> CompTIA Sec+.
+I have experience in C++, Java, Python, HTML, CSS, and am knowledgeable in computer networks. My current certificate roadmap is CompTIA A+ --> CCNA --> CompTIA Sec+.
 
 Full-time developer at home.
 
