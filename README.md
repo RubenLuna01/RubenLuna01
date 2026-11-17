@@ -1,22 +1,30 @@
-  <h1 align="center">
-<img src="https://raw.githubusercontent.com/RubenLuna01/RubenLuna01/refs/heads/main/RubenLunaName.svg" alt="Ruben Luna">
-  </h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/RubenLuna01/RubenLuna01/refs/heads/main/RubenLunaName.svg" alt="Ruben Luna">
+</h1>
 
 ## Hello there 👋
 
-My name is Ruben Luna a CS student at Texas State who treats code like art and security like a puzzle. Bilingual in English, Spanish, and C++.
+I'm Ruben, a Computer Science student at Texas State University (Applied Mathematics minor, graduating Fall 2027) who treats code like art and security like a puzzle. Bilingual in English, Spanish, and C++.
 
-I like understanding how things work—then finding where they don't.
+I like understanding how things work, then finding where they don't.
 
-I have experience in C++, Java, Python, HTML, CSS, and am knowledgeable in computer networks. My current certificate roadmap is CompTIA A+ --> CCNA --> CompTIA Sec+.
+**Now:** AI Fellow at Handshake AI, evaluating model output and reviewing AI-generated code · deploying microservices on AWS · working toward CompTIA Security+
 
-Full-time developer at home.
+### What I'm building/built
 
-My favorite project I've got stored in my arsenal is the AIChatBot
+- **ReTedAI**: an AI-powered IT support platform built by a five-person team. The AI diagnoses support cases and proposes fixes, but an engineer must approve each fix before anything runs. I built the FastAPI + PostgreSQL case service and the AWS deployment: CloudFormation templates that run six services on ECS Fargate in private subnets, container images in ECR, and secrets in AWS Secrets Manager. *(Team repository; demo available on request.)*
+- **[Prompt Injection Benchmark](LINK)**: a Python harness for measuring how often prompt injection attacks succeed against an LLM application.
+- **[Multithreaded Space Invaders](LINK)**: a four-thread Java game with thread-safe shared state and the Strategy pattern.
 
-**Fun Facts**
+### Tech
 
- - I'm a certified Scuba Diver
- - I speak 3 languages, 2 fluent.
- - I built the animated name above.
- - I consider myself to be an explorer
+**Languages:** Python · Java · C++ · SQL · TypeScript · HTML
+**Backend:** FastAPI · PostgreSQL · Next.js · REST APIs · microservices
+**Cloud:** AWS (ECS Fargate, ECR, CloudFormation, Secrets Manager, CloudWatch, IAM) · Docker
+**Security:** network traffic analysis · Linux auditing · incident documentation
+
+### Find me
+
+[LinkedIn](LINK)
+
+<sub>Fun fact: I'm a certified scuba diver.</sub>
