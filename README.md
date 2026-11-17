@@ -13,8 +13,8 @@ I like understanding how things work, then finding where they don't.
 ### What I'm building/built
 
 - **ReTedAI**: an AI-powered IT support platform built by a five-person team. The AI diagnoses support cases and proposes fixes, but an engineer must approve each fix before anything runs. I built the FastAPI + PostgreSQL case service and the AWS deployment: CloudFormation templates that run six services on ECS Fargate in private subnets, container images in ECR, and secrets in AWS Secrets Manager. *(Team repository; demo available on request.)*
-- **[Prompt Injection Benchmark](LINK)**: a Python harness for measuring how often prompt injection attacks succeed against an LLM application.
-- **[Multithreaded Space Invaders](LINK)**: a four-thread Java game with thread-safe shared state and the Strategy pattern.
+- **[Prompt Injection Benchmark](https://github.com/RubenLuna01/prompt-injection-bench)**: a Python harness for measuring how often prompt injection attacks succeed against an LLM application.
+- **[Multithreaded Space Invaders](https://github.com/RubenLuna01/Space_Invaders_Multithreaded)**: a four-thread Java game with thread-safe shared state and the Strategy pattern.
 
 ### Tech
 
@@ -25,6 +25,6 @@ I like understanding how things work, then finding where they don't.
 
 ### Find me
 
-[LinkedIn](LINK)
+[LinkedIn](https://www.linkedin.com/in/ruben-luna-us/)
 
 <sub>Fun fact: I'm a certified scuba diver.</sub>
